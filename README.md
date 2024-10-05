@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <h2>Danh sách huyện, thị xã, thành phố thuộc tỉnh Đồng Nai</h2>
+   <ul>
+      <li>huyện Tân Phú</li>
+      <li>huyện Định Quán</li>
+      <li>huyện Xuân Lộc</li>
+      <li>huyện Thống Nhất</li>
+      <li>huyện Trảng Bom</li>
+      <li>huyện Vĩnh Cửu</li>
+      <li>huyện Long Thành</li>
+      <li>huyện Nhơn Trạch</li>
+      <li>huyện Cẩm Mỹ</li>
+      <li>thành phố Long Khánh</li>
+      <li>thành Phố Biên Hoà</li>
+   </ul>
+   <h2>Dánh sách cách huyện, thị xã, thành phố thuộc tỉnh Tây Ninh</h2>
+   <ul>
+      <li>huyện Tân Biên</li>
+      <li>huyện Gò Dầu</li>
+      <li>huyện Châu Thành</li>
+      <li>huyện Dương Minh Châu</li>
+      <li>huyện Bến Cầu</li>
+      <li>huyện Tân Châu</li>
+      <li>thị xã Trảng Bàng</li>
+      <li>thị xã Hoà Thành</li>
+      <li>thành phố Tây Ninh</li>
+   </ul>
+</body>
+</html>
